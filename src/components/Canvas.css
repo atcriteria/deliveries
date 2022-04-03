@@ -1,0 +1,7 @@
+#gameCanvas {
+    margin: 10% auto;
+    width: 50%;
+    height: 50vh;
+    background-color: lightblue;
+    border: 1px solid black;
+  }
